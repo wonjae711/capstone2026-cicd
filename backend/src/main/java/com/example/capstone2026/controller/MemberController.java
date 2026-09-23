@@ -17,7 +17,7 @@ public class MemberController {
 
     private final MemberRepository memberRepository;
     /**
-     * 회원가입 API
+     * 회원가입 API1
      * POST <http://localhost:8080/api/members/register>
      */
     @PostMapping("/register")
